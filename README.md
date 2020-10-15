@@ -1,16 +1,16 @@
 # sql-challenge
 
-DATA MODELING
+DATA MODELING (QuickDBD-EmployeeSQL.png)
 
-- Skethed out an ERD of the tables (QuickDBD-EmployeeSQL.png)
+- Skethed out an ERD of the tables.
 
 
-DATA ENGINEERING
+DATA ENGINEERING (table schemata.sql)
 
 - Created a table schema for each of the six CSV files and imported them into the corresponding SQL table. 
 
 
-DATA ANALYSIS 
+DATA ANALYSIS (queries.sql)
 
 - Listed the following details of each employee: employee number, last name, first name, sex, and salary.
 
